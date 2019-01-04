@@ -1,0 +1,6 @@
+spring:
+  data:
+    mysql:
+      url: jdbc:mysql://127.0.0.1:3306/NSPM
+      username: nspm
+      password: cn.360.b.nspm
